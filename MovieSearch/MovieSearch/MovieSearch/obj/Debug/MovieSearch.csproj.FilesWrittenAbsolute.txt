@@ -1,0 +1,8 @@
+/Volumes/C/Projects/MovieSearch/MovieSearch/MovieSearch/MovieSearch/obj/Debug/.NETPortable,Version=v4.6,Profile=Profile151.AssemblyAttribute.cs
+/Volumes/C/Projects/MovieSearch/MovieSearch/MovieSearch/MovieSearch/bin/Debug/MovieSearch.dll.mdb
+/Volumes/C/Projects/MovieSearch/MovieSearch/MovieSearch/MovieSearch/bin/Debug/MovieSearch.pdb
+/Volumes/C/Projects/MovieSearch/MovieSearch/MovieSearch/MovieSearch/obj/Debug/MovieSearch.dll
+/Volumes/C/Projects/MovieSearch/MovieSearch/MovieSearch/MovieSearch/obj/Debug/MovieSearch.dll.mdb
+/Volumes/C/Projects/MovieSearch/MovieSearch/MovieSearch/MovieSearch/obj/Debug/MovieSearch.pdb
+/Volumes/C/Projects/MovieSearch/MovieSearch/MovieSearch/MovieSearch/bin/Debug/DM.MovieApi.dll
+/Volumes/C/Projects/MovieSearch/MovieSearch/MovieSearch/MovieSearch/bin/Debug/Newtonsoft.Json.dll

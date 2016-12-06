@@ -1,0 +1,12 @@
+MovieSearch.Droid.MainActivity, MovieSearch.Droid;md58a59fe7193c9e402f80a7a500404a919.MainActivity
+MovieSearch.Droid.MainActivity, MovieSearch.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a59fe7193c9e402f80a7a500404a919.MainActivity
+MovieSearch.Droid.MainActivity;md58a59fe7193c9e402f80a7a500404a919.MainActivity
+moviesearch.droid.MainActivity;md58a59fe7193c9e402f80a7a500404a919.MainActivity
+MovieSearch.Droid.MovieListActivity, MovieSearch.Droid;md58a59fe7193c9e402f80a7a500404a919.MovieListActivity
+MovieSearch.Droid.MovieListActivity, MovieSearch.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a59fe7193c9e402f80a7a500404a919.MovieListActivity
+MovieSearch.Droid.MovieListActivity;md58a59fe7193c9e402f80a7a500404a919.MovieListActivity
+moviesearch.droid.MovieListActivity;md58a59fe7193c9e402f80a7a500404a919.MovieListActivity
+MovieSearch.Droid.SplashActivity, MovieSearch.Droid;md58a59fe7193c9e402f80a7a500404a919.SplashActivity
+MovieSearch.Droid.SplashActivity, MovieSearch.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a59fe7193c9e402f80a7a500404a919.SplashActivity
+MovieSearch.Droid.SplashActivity;md58a59fe7193c9e402f80a7a500404a919.SplashActivity
+moviesearch.droid.SplashActivity;md58a59fe7193c9e402f80a7a500404a919.SplashActivity
