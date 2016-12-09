@@ -2,8 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="MovieSearch.Droid">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="15" />
-  <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.INTERNET" />
   <application android:label="MovieSearch.Droid" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
     <activity android:icon="@drawable/icon" android:label="MovieSearch.Droid" android:theme="@style/MyTheme" android:name="md58a59fe7193c9e402f80a7a500404a919.MainActivity" />
     <activity android:label="MovieList" android:theme="@style/MyTheme" android:name="md58a59fe7193c9e402f80a7a500404a919.MovieListActivity" />
@@ -13,6 +14,9 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:icon="@drawable/icon" android:label="MovieSearch.Droid" android:theme="@style/MyTheme" android:name="md58a59fe7193c9e402f80a7a500404a919.MovieExtendedInfoActivity" />
+    <activity android:icon="@drawable/icon" android:label="TopRatedExtendedInfoActivity" android:theme="@style/MyTheme" android:name="md58a59fe7193c9e402f80a7a500404a919.TopRatedExtendedInfoActivity" />
+    <activity android:label="TopRatedListActivity" android:theme="@style/MyTheme" android:name="md58a59fe7193c9e402f80a7a500404a919.TopRatedListActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="MovieSearch.Droid.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
